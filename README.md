@@ -22,19 +22,18 @@ jupyter:
       hash: 66c686b9540e799d23c4c16a319b66ea70292b5b9e0c8a9aa60650cb753842e8
 ---
 
-::: {.cell .markdown}
+::: 
 # **NFL Predictor**
 :::
 
-email : sylvain_mothes@yahoo.fr
-video link :
+* email : sylvain_mothes@yahoo.fr
+* video link : https://share.vidyard.com/watch/gAotMfHDvzPYgt4NYrRa6L?
 
 
 
 
 
 
-::: {.cell .markdown}
 This repository contains the files and analysis we used to develop a
 game result predictor for the United States National Football League, as
 part of [Jedha\'s Fullstack
@@ -42,11 +41,10 @@ Bootcamp](https://en.jedha.co/formations/formation-data-scientist9),
 May-Aug 2022.
 :::
 
-::: {.cell .markdown}
+
 ## Developers
 :::
 
-::: {.cell .markdown}
 -   Alice Berthod, [GitHub](https://github.com/aliceberthod) &
     [Linkedin](https://www.linkedin.com/in/alice-berthod-3a2442107/)\
 -   Sylvain Mothes, [GitHub](https://github.com/Stylomines) &
@@ -57,11 +55,9 @@ May-Aug 2022.
     [Linkedin](https://www.linkedin.com/in/richard-requena/)
 :::
 
-::: {.cell .markdown}
 ## Libraries
 :::
 
-::: {.cell .markdown}
 Libraries needed for this Github can be found in the requirements.txt
 file or here below:
 
@@ -77,5 +73,5 @@ file or here below:
 -   Datetime
 :::
 
-::: {.cell .markdown}
+
 :::
