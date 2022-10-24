@@ -26,6 +26,14 @@ jupyter:
 # **NFL Predictor**
 :::
 
+email : sylvain_mothes@yahoo.fr
+video link :
+
+
+
+
+
+
 ::: {.cell .markdown}
 This repository contains the files and analysis we used to develop a
 game result predictor for the United States National Football League, as
