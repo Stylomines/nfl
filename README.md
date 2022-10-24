@@ -22,9 +22,9 @@ jupyter:
       hash: 66c686b9540e799d23c4c16a319b66ea70292b5b9e0c8a9aa60650cb753842e8
 ---
 
-::: 
+
 # **NFL Predictor**
-:::
+
 
 * email : sylvain_mothes@yahoo.fr
 * video link : https://share.vidyard.com/watch/gAotMfHDvzPYgt4NYrRa6L?
@@ -39,11 +39,11 @@ game result predictor for the United States National Football League, as
 part of [Jedha\'s Fullstack
 Bootcamp](https://en.jedha.co/formations/formation-data-scientist9),
 May-Aug 2022.
-:::
+
 
 
 ## Developers
-:::
+
 
 -   Alice Berthod, [GitHub](https://github.com/aliceberthod) &
     [Linkedin](https://www.linkedin.com/in/alice-berthod-3a2442107/)\
@@ -53,10 +53,10 @@ May-Aug 2022.
     [Linkedin](https://www.linkedin.com/in/frederic-prigent/)\
 -   Richard Requena, [GitHub](https://github.com/Mamelukor) &
     [Linkedin](https://www.linkedin.com/in/richard-requena/)
-:::
+
 
 ## Libraries
-:::
+
 
 Libraries needed for this Github can be found in the requirements.txt
 file or here below:
@@ -71,7 +71,4 @@ file or here below:
 -   Streamlit
 -   Docker
 -   Datetime
-:::
 
-
-:::
