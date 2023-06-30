@@ -27,7 +27,7 @@ jupyter:
 
 
 * email : sylvain_mothes@yahoo.fr
-* video link : https://share.vidyard.com/watch/gAotMfHDvzPYgt4NYrRa6L?
+
 
 
 
